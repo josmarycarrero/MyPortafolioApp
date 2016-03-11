@@ -28,3 +28,5 @@ If you'd like your app to look Udacious, feel free to use #F08C35 to match the o
 
  * In the Java source for your main activity, enable your buttons [to respond to click or touch events](http://developer.android.com/guide/topics/ui/controls/button.html#HandlingEvents).
  * [Display a toast](http://developer.android.com/guide/topics/ui/notifiers/toasts.html) within the methods you created in the last step.
+
+ ![Application screen](https://github.com/josmarycarrero/Portafolio-App/blob/master/screenshots/screen.png)
