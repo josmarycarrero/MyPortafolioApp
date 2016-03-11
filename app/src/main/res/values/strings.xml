@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Josmary Carrero</string>
-    <string name="app_name1">SPOTIFY STREAMER</string>
-    <string name="app_name2">SCORES APP</string>
-    <string name="app_name3">LIBRARY APP</string>
-    <string name="app_name4">BUILD BIGGER</string>
-    <string name="app_name5">XYZ READER</string>
-    <string name="app_name6">CAPSTONE: MY OWN APP</string>
+    <string name="app_name">Josmary Carrero Portafolio</string>
+    <string name="app_name1">Popular Movies</string>
+    <string name="app_name2">Scores App</string>
+    <string name="app_name3">Library App</string>
+    <string name="app_name4">Jokes App</string>
+    <string name="app_name5">XYZ Reader</string>
+    <string name="app_name6">Sunshine Wear</string>
+    <string name="app_name7">CAPSTONE: MY OWN APP</string>
     <string name="nano">My Nanodegree Apps</string>
     <string name="action_settings">Settings</string>
 

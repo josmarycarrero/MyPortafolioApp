@@ -23,6 +23,7 @@ public class DashActivity extends ActionBarActivity {
         Button  library = (Button) findViewById(R.id.library);
         Button  builder = (Button) findViewById(R.id.builder);
         Button  reader = (Button) findViewById(R.id.reader);
+        Button  sun = (Button) findViewById(R.id.sun);
         Button  own = (Button) findViewById(R.id.own);
 
 
@@ -32,7 +33,7 @@ public class DashActivity extends ActionBarActivity {
             public void onClick(View arg0) {
 
                 Toast.makeText(getApplicationContext(),
-                        "This button will launch my Spotify Streamer app !", Toast.LENGTH_LONG).show();
+                        "This button will launch my Popular Movies app !", Toast.LENGTH_LONG).show();
 
             }
         });
@@ -65,7 +66,18 @@ public class DashActivity extends ActionBarActivity {
             public void onClick(View arg0) {
 
                 Toast.makeText(getApplicationContext(),
-                        "This button will launch my Builder app !", Toast.LENGTH_LONG).show();
+                        "This button will launch my Joke app !", Toast.LENGTH_LONG).show();
+
+            }
+        });
+
+        sun.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+
+                Toast.makeText(getApplicationContext(),
+                        "This button will launch my Sunshine app !", Toast.LENGTH_LONG).show();
 
             }
         });
